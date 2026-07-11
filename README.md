@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Software Developer | DSA Enthusiast</h3>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshucodes01-stack&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/priyanshucodes01-stack?tab=followers">
+    <img src="https://img.shields.io/github/followers/priyanshucodes01-stack?label=Followers&style=flat&color=blue" />
+  </a>
+  <img src="https://img.shields.io/github/stars/priyanshucodes01-stack?affiliations=OWNER&style=flat&color=yellow" />
+</p>
+
+
+
+<h3 align="center">
+A Passionate Full-Stack Developer | Software Developer | DSA Enthusiast
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 👨‍💻 About Me
