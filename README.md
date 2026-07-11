@@ -8,7 +8,7 @@
 -  Currently learning **Full-Stack Development & Data Structures and Algorithms**
 -  Passionate about building scalable and user-friendly web applications
 -  Exploring modern web technologies and software development
--  I have **3 years of experience in Financial Markets**
+-  I have three years of experience studying financial markets, which inspired me to build fintech projects like **PorTra**
 -  Always learning, building, and improving every day
 -  Goal: Become a skilled Software Developer and contribute to impactful products
 
